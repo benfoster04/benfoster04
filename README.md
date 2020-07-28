@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Ben.
+A 16 year old freelance fullstack developer, theatre technician, IT administrator and photographer.
 
-<!--
-**benfoster04/benfoster04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Education 🎓**<br>
+I'm a student at the Birmingham Ormiston Academy studying Technical Theatre Arts.<br>
+Previously, I attended The Avon Valley School. My GCSEs are in Computer Science, ICT, Drama and Music Technology.
 
-Here are some ideas to get you started:
+**Projects 👨🏻‍💻**<br>
+In my free time, I work on personal projects like Script 📰 and Evidence 🎤<br>
+Otherwise, I work for Volta.rip and Infinity Roleplay for systems administration and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where am I 📱**<br>
+**Discord:** LatencyPain#7893<br>
+**Website:** https://benfoster.dev
