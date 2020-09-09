@@ -12,3 +12,5 @@ Otherwise, I work for Volta.rip and Infinity Roleplay for systems administration
 **Where am I 📱**<br>
 **Discord:** LatencyPain#7893<br>
 **Website:** https://benfoster.dev
+
+**Currently having some free time to focus on IRL work :)**
