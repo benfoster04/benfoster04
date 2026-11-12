@@ -1,0 +1,45 @@
+{
+  "anytime": [
+    ""
+  ],
+  "morning": [
+    "Good morning, gorgeous <3"
+  ],
+  "afternoon": [
+    "Don't forget to eat!"
+  ],
+  "evening": [
+    "Hey sleepy head :)"
+  ],
+  "day_sunny": [
+    "It's nice and sunny outside!"
+  ],
+  "cloudy": [
+    "Looking awfully miserable out there..."
+  ],
+  "cloudy": [
+    "It's windy. It's going to be a bumpy ride!"
+  ],
+  "showers": [
+    "Grab your coat... it's pissing it down out there."
+  ],
+  "rain": [
+    "Grab your coat... it's raining."
+  ],
+  "thunderstorm": [
+    "You've been.. thunderstruck!",
+    "I'd write today off, to be honest."
+  ],
+  "snow": [
+    "IT'S SNOWING!!!",
+    "It's beginning to look a lot like Christmas!",
+    "Mariah Carey is defrosting..."
+  ],
+  "fog": [
+    "it's bare foggy out there",
+    "can't see nout"
+  ],
+  "night_clear": [
+    "Clear sky at night.. shepherd's delight"
+  ]
+}
